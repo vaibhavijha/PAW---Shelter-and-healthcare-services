@@ -1,0 +1,147 @@
+{
+  "fields": [
+    {
+      "index": 1,
+      "breed": "Akita",
+      "food": ["Nom Nom Fresh Pet Food", "Ollie Fresh Pet Food"]
+    },
+
+    {
+      "index": 2,
+      "breed": "Bloodhound",
+      "food": [
+        "Taste of the Wild Pacific",
+        "American Journey Salmon & Brown Rice"
+      ]
+    },
+
+    {
+      "index": 3,
+      "breed": "Cane_Corso",
+      "food": ["Taste of the Wild Pacific", "Nom Nom Fresh Pet Food"]
+    },
+
+    {
+      "index": 4,
+      "breed": "Corgi",
+      "food": ["Wellness CORE Original Deboned Turkey", "Ollie Fresh Pet Food"]
+    },
+
+    {
+      "index": 5,
+      "breed": "Dachshund",
+      "food": [
+        "Blue Buffalo Life Protection Small Breed",
+        "Ziwi Peak Venison Grain-Free Air-Dried"
+      ]
+    },
+
+    {
+      "index": 6,
+      "breed": "French_Bulldog",
+      "food": [
+        "Taste of the Wild Appalachian Valley",
+        "American Journey Lamb & Sweet Potato"
+      ]
+    },
+
+    {
+      "index": 7,
+      "breed": "German_Shepherd",
+      "food": [
+        "Taste of the Wild Prairie Formula",
+        "VICTOR Hi-Pro Plus Formula"
+      ]
+    },
+
+    {
+      "index": 8,
+      "breed": "Havanese",
+      "food": [
+        "Iams ProActive Health Adult Small Breed",
+        "The Honest Kitchen Grain-Free Chicken Recipe"
+      ]
+    },
+
+    {
+      "index": 9,
+      "breed": "Lhasa_Apso",
+      "food": ["Ollie Fresh Pet Food", "Nom Nom Heartland Beef Mash"]
+    },
+
+    {
+      "index": 10,
+      "breed": "Mastiff",
+      "food": ["Taste of the Wild Wetlands", "Nom Nom Heartland Beef Mash"]
+    },
+
+    {
+      "index": 11,
+      "breed": "Newfoundland",
+      "food": [
+        "Taste of the Wild Pacific Stream",
+        "Nom Nom Heartland Beef Mash"
+      ]
+    },
+
+    {
+      "index": 12,
+      "breed": "Pekingese",
+      "food": [
+        "Whole Earth Farms Small Breed Chicken & Turkey Recipe",
+        "Nom Nom Heartland Beef Mash"
+      ]
+    },
+
+    {
+      "index": 13,
+      "breed": "Puggle",
+      "food": [
+        "Whole Earth Farms Salmon & Whitefish Recipe",
+        "Nom Nom Heartland Beef Mash"
+      ]
+    },
+
+    {
+      "index": 14,
+      "breed": "Rottweiler",
+      "food": ["Taste of the Wild Sierra Mountain", "Ollie Fresh Pet Food"]
+    },
+
+    {
+      "index": 15,
+      "breed": "Schnoodle",
+      "food": ["Taste of the Wild Wetlands Formula", "Ollie Fresh Pet Food"]
+    },
+
+    {
+      "index": 16,
+      "breed": "Shih_Tzu",
+      "food": ["Taste of the Wild Wetlands Formula", "Ollie Fresh Pet Food"]
+    },
+
+    {
+      "index": 17,
+      "breed": "Vizsla",
+      "food": [
+        "Whole Earth Farms Salmon & Whitefish Recipe",
+        "Nom Nom Heartland Beef Mash"
+      ]
+    },
+
+    {
+      "index": 18,
+      "breed": "Whippet",
+      "food": ["Taste of the Wild Wetlands", "Nom Nom Heartland Beef Mash"]
+    },
+
+    {
+      "index": 19,
+      "breed": "Yorkipoo",
+      "food": [
+        "Taste of the Wild Prairie Formula",
+        "VICTOR Hi-Pro Plus Formula"
+      ]
+    }
+  ]
+}
